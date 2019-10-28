@@ -100,8 +100,6 @@ C:\Users\Alumno\Desktop\cxa\Calculator.Droid\obj\Debug\81\android\assets\System.
 C:\Users\Alumno\Desktop\cxa\Calculator.Droid\obj\Debug\81\android\assets\System.Xml.Linq.pdb
 C:\Users\Alumno\Desktop\cxa\Calculator.Droid\obj\Debug\81\android\assets\System.Xml.pdb
 C:\Users\Alumno\Desktop\cxa\Calculator.Droid\bin\Debug\Calculator.Droid.dll
-C:\Users\Alumno\Desktop\cxa\Calculator\bin\Debug\Calculator.dll
-C:\Users\Alumno\Desktop\cxa\Calculator.Droid\bin\Debug\Calculator.dll.mdb
 C:\Users\Alumno\Desktop\cxa\Calculator.Droid\obj\Debug\81\linksrc\Calculator.Droid.dll.mdb
 C:\Users\Alumno\Desktop\cxa\Calculator.Droid\obj\Debug\81\linksrc\Calculator.dll.mdb
 C:\Users\Alumno\Desktop\cxa\Calculator.Droid\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb

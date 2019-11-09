@@ -15,7 +15,7 @@ namespace Calculator
         {
             InitializeComponent ();
             this.BindingContext = new Comandos();
-            //OnClear(this, null);
+          
         }
 
         void OnSelectNumber(object sender, EventArgs e)
